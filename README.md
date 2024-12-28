@@ -1,4 +1,4 @@
-#T3D Discord Bot Json Database
+# T3D Discord Bot Json Database
 
 ![image](https://github.com/user-attachments/assets/0fd77395-6abf-4af3-a0a6-705118b81c69)
 
